@@ -1,4 +1,4 @@
-# Wiki_API
+# Wiki_API instructions
 
 Start the API server by running the script. This can be done by navigating to the directory containing the script in your terminal and running the command python <filename>.py, where <filename> is the name of the Python script file.
 
